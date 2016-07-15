@@ -93,6 +93,12 @@ h1{
 	line-height: 1;
 	margin-bottom: 18px;
 }
+
+.responsive-no-blk {
+	max-width: 100%;
+	height: auto;
+}
+
 .user img{
 	width: 140px;
 	height: 140px;
@@ -568,6 +574,11 @@ ul.navbar li a:hover, ul.navbar li a.active, .navbar-default .navbar-nav>li>a:ho
 	color: #444444;
 	margin-top: 20px;
 	text-align: left;
+}
+
+.aboutSubtitle {
+	font-style: italic;
+	font-weight: bold;
 }
 
 /******Contact Page*******/
